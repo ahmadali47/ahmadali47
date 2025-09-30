@@ -1,7 +1,5 @@
-## Hi there 👋 THis iS whAt I moStly dO 👇
-
+THis iS whAt I moStly dO 👇
 <img src="gif.gif" alt="gif" width="300"/>
-
 - 💻 Web Developer 
 - 🚀 Building projects with JavaScript, React, and Node.js 
 - 🤖 Exploring AI & Machine Learning 
@@ -9,10 +7,10 @@
 - 🎮 Creator of simple but fun web games 
 - 🌱 Always learning, always coding 
 
+- 📫 How to reach me: 'ahmad.aa47ali@gmail.com'
+  
 <!--
 **ahmadali47/ahmadali47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
