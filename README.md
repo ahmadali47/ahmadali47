@@ -1,5 +1,7 @@
-THis iS whAt I moStly dO 👇
-<img src="gif.gif" alt="gif" width="300"/>
+THis iS whAt I moStly dO 👇 
+
+<img src="gif.gif" alt="gif" width="300"/> 
+
 - 💻 Web Developer 
 - 🚀 Building projects with JavaScript, React, and Node.js 
 - 🤖 Exploring AI & Machine Learning 
