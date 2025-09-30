@@ -1,6 +1,13 @@
 ## Hi there 👋 THis iS whAt I moStly dO 👇
 
-![gif](gif.gif)
+<img src="gif.gif" alt="gif" width="300"/>
+
+💻 Web Developer
+🚀 Building projects with JavaScript, React, and Node.js
+🤖 Exploring AI & Machine Learning
+🔐 Passionate about Cybersecurity
+🎮 Creator of simple but fun web games
+🌱 Always learning, always coding
 
 <!--
 **ahmadali47/ahmadali47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
