@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 THis iS whAt I moStly dO 👇
+
+![gif](gif.gif)
 
 <!--
 **ahmadali47/ahmadali47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
